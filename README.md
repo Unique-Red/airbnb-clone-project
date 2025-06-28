@@ -16,3 +16,8 @@
 - Reviews: feedback from users
 - Payments: uses third party API
 
+## Feature Breakdown
+- User management: authentication and dashboard
+- Property management: Ownership
+- Booking system: Transaction
+
